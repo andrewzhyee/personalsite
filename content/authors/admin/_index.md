@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Andrew Z H Yee
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Faculty Early Career Award Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Singapore University of Technology and Design
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.sg/citations?user=neYueskAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
