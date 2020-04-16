@@ -69,7 +69,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am currently SUTD Faculty Fellow at the Singapore University of Technology and Design. My research focuses on understanding how social and technological environments shape the health and well-being of individuals. I am currently working on a number of research projects related to media use among children and youths and how it affects their well-being, parent-child communication and nutrition, as well as technological acceptance for health among the elderly. One of the more exciting projects I am working on is on collecting and analyzing the screenomes of young people.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have published widely in scholarly journals such as the Journal of Health Communication, Computers in Human Behavior, the International Journal of Behavioral Nutrition and Physical Activity, Cyberpsychology, Behavior, and Social Networking, the International Journal of Advertising, Vaccine, and the Oxford Encyclopedia of Communication. 
