@@ -37,9 +37,9 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore-ieee-org.ezproxy.lib.ryerson.ca/document/8727911"
+url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/nabsabraham/alzheimers"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -62,7 +62,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+#image = ""
 #caption = "My caption :smile:"
 
 +++
