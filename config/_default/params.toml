@@ -82,7 +82,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "andrew_yee@sutd.edu.sg"
-phone = " "
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -93,7 +93,7 @@ address = {street = "8 Somapah Road", city = "Singapore", region = " ", postcode
 coordinates = ""
 
 # Directions for visitors to locate you.
-directions = ""
+directions = []
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -259,8 +259,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 0
-  api_key = ""
+  engine = 1
+  api_key = "AIzaSyBEwwnOCZ9CqxhjDgR99l2Ik3dn4XTCPpA"
   zoom = 15
 
 ############################
