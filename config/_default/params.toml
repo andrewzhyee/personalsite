@@ -93,7 +93,7 @@ address = {street = "8 Somapah Road", city = "Singapore", region = " ", postcode
 coordinates = {latitude = "1.3414", longitude = "103.9638"}
 
 # Directions for visitors to locate you.
-directions = "Go to..."
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -109,7 +109,7 @@ contact_links = [
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@publishorperish"},
+  {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://telegram.me/@publishorperish"},
   ]
 
 ############################
@@ -259,7 +259,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
+  engine = 0
   api_key = "AIzaSyBEwwnOCZ9CqxhjDgR99l2Ik3dn4XTCPpA"
   zoom = 15
 
