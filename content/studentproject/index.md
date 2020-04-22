@@ -4,9 +4,9 @@ summary: In the start of the January 2020 term, the 02.230TS Health Communicatio
 date: " "
 
 reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
+share: true  # Show social sharing links?
 profile: false  # Show author profile?
-comments: false  # Show comments?
+comments: true  # Show comments?
 
 # Optional header image (relative to `static/img/` folder).
 header:
