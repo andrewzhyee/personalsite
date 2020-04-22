@@ -90,7 +90,7 @@ address = {street = "8 Somapah Road", city = "Singapore", region = " ", postcode
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = "1.34, 103.96"
+coordinates = {latitude = "1.3414", longitude = "103.9638"}
 
 # Directions for visitors to locate you.
 directions = "Go to..."
