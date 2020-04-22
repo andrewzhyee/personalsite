@@ -13,5 +13,4 @@ header:
   caption: ""
   image: ""
 ---
-#SUTD Health Promotion + Behavior Change Exhibition 2020
-##In the start of the January 2020 term, the 02.230TS Health Communication and Behavior Change students from SUTD were tasked to 
+As the focus of healthcare services expands beyond medical supply, there is increasing interest in the use of health communication campaigns and behavioral interventions to reduce the healthcare burden through effective health promotion and disease prevention. At the start of the January 2020, the 02.230TS Health Communication and Behavior Change students from SUTD were tasked by the Singapore Health Promotion Board to come up with ideas to tackle various health issues. Due to the COVID-19 situation, their physical exhibitions had to be migrated online, and this page showcases their final projects which include theoretically-driven health promotion campaigns and interventions that tackle the most pertinent health issues in our society today! Please feel free to browse and contact the students or myself if you have any questions.
