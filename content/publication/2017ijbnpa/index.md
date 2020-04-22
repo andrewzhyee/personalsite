@@ -23,7 +23,7 @@ publication = "International Journal of Behavioral Nutrition and Physical Activi
 
 # Abstract and optional shortened version.
 
-abstract = "The family is an important social context where children learn and adopt eating behaviors. Specifically, parents play the role of health promoters, role models, and educators in the lives of children, influencing their food cognitions and choices. This study attempts to systematically review empirical studies examining the influence of parents on child food consumption behavior in two contexts: one promotive in nature (e.g., healthy food), and the other preventive in nature (e.g., unhealthy food). From a total of 6,448 titles extracted from Web of Science, ERIC, PsycINFO and PubMED, seventy eight studies met the inclusion criteria for a systematic review, while thirty seven articles contained requisite statistical information for meta-analysis. The parental variables extracted include active guidance/education, restrictive guidance/rule-making, availability, accessibility, modeling, pressure to eat, rewarding food consumption, rewarding with verbal praise, and using food as reward. The food consumption behaviors examined include fruits and vegetables consumption, sugar-sweetened beverages, and snack consumption. Results indicate that availability (Healthy: r = .24, p < .001; Unhealthy: r = .34, p < .001) and parental modeling effects (Healthy: r = .32, p < .001; Unhealthy: r = .35, p < .001) show the strongest associations with both healthy and unhealthy food consumption. In addition, the efficacy of some parenting practices might be dependent on the food consumption context and the age of the child. For healthy foods, active guidance/ education might be more effective (r = .15, p < .001). For unhealthy foods, restrictive guidance/rule-making might be more effective (r = −.11, p < .01). For children 7 and older, restrictive guidance/rule-making could be more effective in preventing unhealthy eating (r = − .20, p < .05). For children 6 and younger, rewarding with verbal praise can be more effective in promoting healthy eating (r = .26, p < .001) and in preventing unhealthy eating (r = − .08, p < .01). This study illustrates that a number of parental behaviors are strong correlates of child food consumption behavior. More importantly, this study highlights 3 main areas in parental influence of child food consumption that are understudied: (1) active guidance/education, (2) psychosocial mediators, and (3) moderating influence of general parenting styles."
+abstract = "**Background**: The family is an important social context where children learn and adopt eating behaviors. Specifically, parents play the role of health promoters, role models, and educators in the lives of children, influencing their food cognitions and choices. This study attempts to systematically review empirical studies examining the influence of parents on child food consumption behavior in two contexts: one promotive in nature (e.g., healthy food), and the other preventive in nature (e.g., unhealthy food). <br/> **Method**: From a total of 6,448 titles extracted from Web of Science, ERIC, PsycINFO and PubMED, seventy eight studies met the inclusion criteria for a systematic review, while thirty seven articles contained requisite statistical information for meta-analysis. The parental variables extracted include active guidance/education, restrictive guidance/rule-making, availability, accessibility, modeling, pressure to eat, rewarding food consumption, rewarding with verbal praise, and using food as reward. The food consumption behaviors examined include fruits and vegetables consumption, sugar-sweetened beverages, and snack consumption. <br/> **Results**: Results indicate that availability (Healthy: r = .24, p < .001; Unhealthy: r = .34, p < .001) and parental modeling effects (Healthy: r = .32, p < .001; Unhealthy: r = .35, p < .001) show the strongest associations with both healthy and unhealthy food consumption. In addition, the efficacy of some parenting practices might be dependent on the food consumption context and the age of the child. For healthy foods, active guidance/ education might be more effective (r = .15, p < .001). For unhealthy foods, restrictive guidance/rule-making might be more effective (r = −.11, p < .01). For children 7 and older, restrictive guidance/rule-making could be more effective in preventing unhealthy eating (r = − .20, p < .05). For children 6 and younger, rewarding with verbal praise can be more effective in promoting healthy eating (r = .26, p < .001) and in preventing unhealthy eating (r = − .08, p < .01). <br/> **Conclusion**:This study illustrates that a number of parental behaviors are strong correlates of child food consumption behavior. More importantly, this study highlights 3 main areas in parental influence of child food consumption that are understudied: (1) active guidance/education, (2) psychosocial mediators, and (3) moderating influence of general parenting styles."
 
 # Featured image thumbnail (optional)
 #image_preview = "static/img/ftl.png"
@@ -37,9 +37,9 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore-ieee-org.ezproxy.lib.ryerson.ca/document/8727911"
+url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/nabsabraham/alzheimers"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -62,7 +62,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+#image = ""
 #caption = "My caption :smile:"
 
 +++
