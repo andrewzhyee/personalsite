@@ -26,12 +26,12 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 90
   
 [[main]]
  name = "Health Promotion + Behavior Change Exhibition 2020"
  url = "healthcommexhibition2020/"
- weight = 70
+ weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
