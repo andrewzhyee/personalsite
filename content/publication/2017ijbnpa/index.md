@@ -1,6 +1,4 @@
 +++
-{{< figure src="familyeating.jpg" title="" lightbox="true" >}}
-
 title = "The influence of parental practices on child promotive and preventive food consumption behaviors: a systematic review and meta-analysis"
 date = "2017-04-11"
 
