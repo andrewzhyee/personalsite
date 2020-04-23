@@ -27,6 +27,7 @@ abstract = "**Background**: The family is an important social context where chil
 
 # Featured image thumbnail (optional)
 image_preview = "familyeating.png"
+preview = true
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -63,7 +64,7 @@ highlight = false
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "familyeating.jpg"
-caption = "credits: https://unsplash.com/@daen_2chinda"
+caption = "credit: https://unsplash.com/@daen_2chinda"
 
 +++
 
