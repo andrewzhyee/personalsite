@@ -66,3 +66,5 @@ highlight = false
 #caption = "My caption :smile:"
 
 +++
+
+Cite this in APA: Yee, A. Z. H., Lwin, M. O, and Ho, S. S. (2017). The influence of parental practices on child promotive and preventive food consumption behaviors: A systematic review and meta-analysis. _International Journal of Behavioral Nutrition and Physical Activity, 14_, 47. DOI: 10.1186/s12966-017-0501-3
