@@ -63,7 +63,7 @@ highlight = false
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "familyeating.jpg"
-caption = "credit: https://unsplash.com/@daen_2chinda"
+caption = "credit: unsplash.com/@daen_2chinda"
 
 +++
 
