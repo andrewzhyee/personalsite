@@ -10,6 +10,6 @@ view: 3
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "credit: unsplash.com/@itfeelslikefilm"
+  image: "pubheader.jpg"
 ---
