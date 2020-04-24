@@ -1,5 +1,5 @@
 +++
-title = "Conceptualizing E-Health"
+title = "e-Health"
 date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
