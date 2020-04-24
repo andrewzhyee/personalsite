@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include media use and youth well-being, parent-child communication, and technological acceptance for health among the elderly.
+bio: I am a Faculty Early Career Award Fellow at the Humanities, Arts, and Social Sciences department in the Singapore University of Technology Design. My primary research interest involve parent-child communication, health communication, and youth media use and well-being.
 
 interests:
 - Media and youth well-being
 - Parent-child communication
-- Technological acceptance
+- Health communication
 
 education:
   courses:
@@ -45,12 +45,18 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.sg/citations?user=neYueskAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/andrewzhyee
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Andrew_Yee3
   
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below. 
+- icon: cv
+  icon_pack: ai
+  link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -61,6 +67,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently SUTD Faculty Fellow at the Singapore University of Technology and Design. My research focuses on understanding how social and technological environments shape the health and well-being of individuals. I am currently working on a number of research projects related to media use among children and youths and how it affects their well-being, parent-child communication and nutrition, as well as technological acceptance for health among the elderly. One of the more exciting projects I am working on right now is the collection and analysis of young people's screenomes, and identifying how different strains of media use can affect youth well-being.
+I am currently SUTD Faculty Fellow at the Singapore University of Technology and Design. My research focuses on understanding how social and technological environments shape the health and well-being of individuals. I am currently working on a number of research projects related to media use among children and youths and how it affects their well-being, parent-child communication and nutrition, as well as technological acceptance for health among the elderly. One of the more exciting projects I am working on right now is the collection and analysis of young people's screenomes in Singapore, and identifying how different strains of media use can affect youth well-being.
 
 I have published widely in scholarly journals such as the Journal of Health Communication, Computers in Human Behavior, the International Journal of Behavioral Nutrition and Physical Activity, Cyberpsychology, Behavior, and Social Networking, the International Journal of Advertising, Vaccine, and the Oxford Encyclopedia of Communication. 
