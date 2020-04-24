@@ -18,7 +18,7 @@ authors = ["Shirley S Ho", "**Andrew Z H Yee**"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "Oxford Encyclopedia of Health and Risk Message Design and Processing"
+publication = "Oxford Encyclopedia of Communication"
 #publication_short = ""
 
 # Abstract and optional shortened version.
