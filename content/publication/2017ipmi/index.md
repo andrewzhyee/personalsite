@@ -1,5 +1,5 @@
 +++
-title = "Presumed Media Influence in health and risk messaging"
+title = "Presumed media influence in health and risk messaging"
 date = "2017-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
