@@ -26,7 +26,7 @@ publication = "International Journal of Advertising"
 abstract = "Numerous studies have highlighted the undesirable effects of food advertising on children across the world. However, very few researchers have looked at the impact of food advertising restrictions on the targeted outcomes of these policies. This paper presents three studies that assessed the impact of child food advertising restrictions in Singapore. The studies include (1) a content analysis of television advertisements, (2) a door-to-door household pantry survey of families, and (3) a large-scale survey of school children. Results indicate that the amount of unhealthy food advertising has declined since the policy implementation, children’s cognition about fast- food have shifted desirably, household stocks of a number of unhealthy foods have decreased slightly, and children’s self-reported consumption of unhealthy foods has decreased slightly. Age and gender effects were found, where older children, and girls, show larger differences. Implications for policy and future research are discussed."
 
 # Featured image thumbnail (optional)
-image_preview = "tvicecream.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -62,9 +62,12 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "tvicecream.jpg"
-caption = "credit: unsplash.com/@jorgezapatag"
+image = ""
+caption = ""
 
 +++
-
 Cite this in APA: Lwin, M. O., Yee, A. Z. H., Lau, J., Ng, J. S., Lam, J. Y., Cayabyab, Y., & Malik, S. (2020). A macro-level assessment of introducing children food advertising restrictions on children’s unhealthy food cognition and behavior. International Journal of Advertising. DOI: 10.1080/02650487.2020.1717856
+<br/>
+<br/>
+_Image Credit: unsplash.com/@jorgezapatag_
+
