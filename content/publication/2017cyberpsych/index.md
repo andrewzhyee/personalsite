@@ -26,7 +26,7 @@ publication = "Cyberpsychology, Behavior, & Social Networking"
 abstract = "Using an extended theory of planned behavior (TPB), this study explores how the original TPB variables (attitude, subjective norms, and perceived behavioral control), personality traits, privacy concern, past privacy protection behaviors (PPBs), as well as parental mediation strategies relate to adolescents' intention to engage in privacy protection measures. We administered a cross-sectional survey to a nationally representative sample of adolescents (N = 4,920) in Singapore. The sample comprised 50.5 percent females and 49.5 percent males with age ranging from 13 to 21 years (M = 14.73). Results from the hierarchical regression analysis showed that the proposed extended TPB model received partial support. Subjective norms, among the TPB and other factors, have the strongest relationship with adolescents' intention to engage in PPBs on social network sites. Adolescents' privacy concern and their past PPBs are more important in influencing their future PPB compared with personality traits such as neuroticism and extraversion. Adolescents whose parents have engaged in regulated parental mediation are more likely to protect their privacy on SNSs compared with adolescents whose parents have adopted active mediation style."
 
 # Featured image thumbnail (optional)
-image_preview = "privacy.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -62,9 +62,11 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "privacy.jpg"
-caption = "credit: unsplash.com/@ev"
+image = ""
+caption = ""
 
 +++
-
 Cite this in APA: Ho, S. S., Lwin, M. O., Yee, A. Z. H., & Lee, E. W. J. (2017). Understanding factors associated with Singaporean adolescents’ privacy protection behavior using an extended theory of planned behavior. Cyberpsychology, Behavior, & Social Networking, 20(9), 572-579. DOI: 10.1089/cyber.2017.0061
+<br/>
+<br/>
+_Image Credit: unsplash.com/@ev
