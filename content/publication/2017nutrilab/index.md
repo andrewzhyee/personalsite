@@ -26,7 +26,7 @@ publication = "Oxford Encyclopedia of Communication"
 abstract = "Populated by a diverse spread of cultures, Southeast Asia is represented by the Association of Southeast Asian Nations (ASEAN), a regional organization comprising some 622 million people in ten countries. While food and beverage labeling policies differ across ASEAN member states, organizations such as the ASEAN Food and Beverage Alliance (AFBA) have pushed for standardization in the interest of facilitating interregional trade. Set against this backdrop of economic growth, nutrition labeling as a means of influencing consumer choices has become a significant area of focus for health authorities and researchers over the past two decades due to rising chronic disease levels within the region’s increasingly urbanized communities. Food retail trends facing Southeast Asia challenge the state of existing regulations governing, as well as research on food labeling practices in the region. Two main points stand out. First, legislation has remained disparate among the ASEAN nations despite repeated calls for standardization by academics as well as other relevant bodies, with only Malaysia adopting mandatory regulations on food labeling and nutritional claims. Second, existing nutrition labeling research in ASEAN is sorely lacking. In addition, there is a lack of theoretical and methodological diversity in existing studies, leading to an incomplete understanding of nutritional label use in Asia and a crucial research gap that remains to be filled."
 
 # Featured image thumbnail (optional)
-image_preview = "supermarket.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -62,9 +62,11 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "supermarket.jpg"
+image = ""
 caption = "credit: unsplash.com/@neonbrand"
 
 +++
-
 Cite this in APA: Lwin, M. O., Lau, J., Yee, A. Z. H., & Au, C. (2017). Nutrition labelling in health and risk messaging in Asia. Oxford Research Encyclopedia of Communication. DOI: 10.1093/acrefore/9780190228613.013.307
+<br/>
+<br/>
+_Image Credit: unsplash.com/@neonbrand_
