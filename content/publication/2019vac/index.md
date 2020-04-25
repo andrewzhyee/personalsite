@@ -26,7 +26,7 @@ publication = "Vaccine"
 abstract = "**Background**: This study examined the impact of superstitious beliefs on influenza vaccine uptake and investigated the role of health beliefs as underlying psychological mechanisms. It is hypothesized that superstitious beliefs predict greater perceived risks in influenza and vaccines, which in turn affect influenza vaccine uptake. <br/> **Methods**: A cross-sectional survey of Singaporeans and Singapore Permanent Residents aged between 21 and 70 (N = 668) was conducted using computer-assisted telephone interviews. The survey covered beliefs in superstition, health beliefs in influenza and vaccines, and influenza vaccine uptake intention and behavior using the Health Belief Model. Path analysis was adopted to examine the hypothesized model. <br/> **Results**: Approximately 60% of the sample had never obtained influenza vaccination. The path analysis found that superstitious beliefs significantly predicted higher perceived barriers and lower perceived benefits of vaccines, which in turn predicted a lower intention to take influenza vaccine in the next year and/or a lower probability of ever taking influenza vaccine. In contrast, superstitious beliefs predicted higher perceived susceptibility and severity of influenza that in turn predicted higher influenza vaccine uptake intention and/or probability. Examining demographic variables and past experience on influenza as control and confounding factors did not significantly affect the results. <br/> **Conclusion**: The findings imply that beliefs in superstitions can have mixed effects on vaccine uptake and intention through shaping beliefs of the disease and vaccines. Significant implications in health education and persuasion on vaccine uptake are discussed."
 
 # Featured image thumbnail (optional)
-image_preview = "blackcat.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -62,9 +62,11 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "blackcat.jpg"
-caption = "credit: pexels.com/@david-bartus-43782"
+image = ""
+caption = ""
 
 +++
-
 Cite this in APA: Lu, J., Luo, M., Yee, A. Z. H., Sheldenkar, A., Lau, J., & Lwin, M. O. (2019). Do superstitious beliefs affect influenza vaccine uptake through shaping health beliefs? Vaccine, 37(8), 1046-1052. DOI: 10.1016/j.vaccine.2019.01.017
+<br/>
+<br/>
+_Image Credit: unsplash.com/@centelm_
