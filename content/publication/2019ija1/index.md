@@ -26,7 +26,7 @@ publication = "International Journal of Advertising"
 abstract = "This study examines how parents, peers, and media use affect adolescents’ attitudinal and behavioral responses to app-based mobile advertising. A survey conducted with 603 smartphone users aged between 12 and 19 in Singapore suggests that parental factors, particularly control-based restrictive parental mediation, are more influential on younger adolescents than older ones. Findings also demonstrate that adolescents’ susceptibility to normative peer influence makes them less critical about app-based mobile advertising, regardless of their age. Regarding the role of media use, adolescents’ responses to app-based mobile advertising are more a function of perceived smartphone competency than the amount of time spent on smartphones."
 
 # Featured image thumbnail (optional)
-image_preview = "teenphone.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -62,9 +62,11 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "teenphone.jpg"
+image = ""
 caption = "credit: unsplash.com/@airamdatoon"
 
 +++
-
 Cite this in APA: Shin, W. S., Lwin, M. O., Yee, A. Z. H., & Kee, K. M. (2019). The role of socialization agents in adolescents’ responses to app-based mobile marketing. International Journal of Advertising, 39(3), 365-386. DOI: 10.1080/02650487.2019.1648138
+<br/>
+<br/>
+_Image Credit: unsplash.com/@airamdatoon_
