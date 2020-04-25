@@ -1,22 +1,22 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Parent-Child Communication and Food Preferences
+summary: This research project aims to identify the variety and 
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Parent-Child Communication
+date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: https://unsplash.com/@daen_2chinda
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: 
+  icon_pack: 
+  name: 
+  url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
