@@ -69,4 +69,4 @@ caption = ""
 Cite this in APA: Lu, J., Luo, M., Yee, A. Z. H., Sheldenkar, A., Lau, J., & Lwin, M. O. (2019). Do superstitious beliefs affect influenza vaccine uptake through shaping health beliefs? Vaccine, 37(8), 1046-1052. DOI: 10.1016/j.vaccine.2019.01.017
 <br/>
 <br/>
-_Image Credit: unsplash.com/@centelm_
+*Image Credit: https://unsplash.com/@centelm*
