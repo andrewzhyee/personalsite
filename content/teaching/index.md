@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: Teaching
 summary: I have taught courses in health communication and communication research methods to both undergraduate and graduate students. Listed below are courses I have taught as sole/main instructor:
 date: ""
 
