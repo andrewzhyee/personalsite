@@ -69,4 +69,4 @@ caption = ""
 Cite this in APA: Ho, S. S., Lwin, M. O., Yee, A. Z. H., & Lee, E. W. J. (2017). Understanding factors associated with Singaporean adolescents’ privacy protection behavior using an extended theory of planned behavior. Cyberpsychology, Behavior, & Social Networking, 20(9), 572-579. DOI: 10.1089/cyber.2017.0061
 <br/>
 <br/>
-_Image Credit: https://unsplash.com/@ev
+*Image Credit: https://unsplash.com/@ev*
