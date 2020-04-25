@@ -23,10 +23,10 @@ publication = "TODAY Online"
 
 # Abstract and optional shortened version.
 
-abstract = "As Covid-19 brings the world to a standstill, my co-author Lim Sun Sun and I wrote an op-ed that discusses how screen time for children, often blamed ."
+abstract = "As Covid-19 brings the world to a standstill, my co-author Lim Sun Sun and I wrote an op-ed that discusses how screen time for children, often blamed."
 
 # Featured image thumbnail (optional)
-image_preview = "screentime.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -62,7 +62,8 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "screentime.jpg"
-caption = "credit: unsplash.com/@kellysikkema"
+image = ""
+caption = ""
 
 +++
+_Image Credit: unsplash.com/@kellysikkema_
