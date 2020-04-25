@@ -27,7 +27,6 @@ abstract = "**Background**: The family is an important social context where chil
 
 # Featured image thumbnail (optional)
 image_preview = "featured.jpg"
-caption = "credit: unsplash.com/@daen_2chinda"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -63,7 +62,10 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "featured.jpg"
-caption = "credit: unsplash.com/@daen_2chinda"
+image = ""
+caption = ""
 +++
 Cite this in APA: Yee, A. Z. H., Lwin, M. O, and Ho, S. S. (2017). The influence of parental practices on child promotive and preventive food consumption behaviors: A systematic review and meta-analysis. International Journal of Behavioral Nutrition and Physical Activity, 14, 47. DOI: 10.1186/s12966-017-0501-3
+<br/>
+<br/>
+_Image credit: unsplash.com/@daen_2chinda_
