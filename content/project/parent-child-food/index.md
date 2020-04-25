@@ -12,15 +12,7 @@ image:
   caption: https://unsplash.com/@daen_2chinda
   focal_point: Smart
 
-# links:
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+links:
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
