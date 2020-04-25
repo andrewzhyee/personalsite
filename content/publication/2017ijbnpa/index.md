@@ -58,7 +58,15 @@ math = false
 
 # Does the content use source code highlighting?
 highlight = false
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = 
+caption = 
   
++++
+
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
@@ -71,7 +79,5 @@ image:
   focal_point: "Center"
   preview_only: false
   alt_text: An optional description of the image for screen readers.
-  
-+++
 
 Cite this in APA: Yee, A. Z. H., Lwin, M. O, and Ho, S. S. (2017). The influence of parental practices on child promotive and preventive food consumption behaviors: A systematic review and meta-analysis. International Journal of Behavioral Nutrition and Physical Activity, 14, 47. DOI: 10.1186/s12966-017-0501-3
