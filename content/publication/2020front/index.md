@@ -26,7 +26,7 @@ publication = "Frontiers in Communication"
 abstract = "The rapidly increasing volume of health data generated from digital technologies have ushered in an unprecedented opportunity for health research. Despite their promises, big data approaches in understanding human behavior often do not consider conceptual premises that provide meaning to social and behavioral data. In this paper, we update the definition of big data, and review different types and sources of health data that researchers need to grapple with. We highlight three problems in big data approaches—data deluge, data hubris, and data opacity—that are associated with the blind use of computational analysis. Finally, we lay out the importance of cultivating health data sense-making—the ability to integrate theory-led and data-driven approaches to process different types of health data and translating findings into tangible health outcomes—and illustrate how theorizing can matter in the age of big data."
 
 # Featured image thumbnail (optional)
-image_preview = "front2020.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -62,9 +62,11 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "front2020.jpg"
-caption = "credit: unsplash.com/@fabioha"
+image = ""
+caption = ""
 
 +++
-
 Cite this in APA: Lee, E. W. J. and Yee, A. Z. H. (2020). Toward data sense-making in digital health communication research: Why theory matters in the age of big data. Frontiers in Communication, 5, 11. DOI: 10.3389/fcomm.2020.00011
+<br/>
+<br/>
+_Image Credit: unsplash.com/@fabioha_
