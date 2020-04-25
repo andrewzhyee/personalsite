@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: credit: https://unsplash.com/@daen_2chinda
+  caption: https://unsplash.com/@daen_2chinda
   focal_point: Smart
 
 links:
