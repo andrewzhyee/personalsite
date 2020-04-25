@@ -3,6 +3,9 @@ title: Parent-Child Communication and Food Preferences
 summary: This research project aims to identify the variety and 
 tags:
 - Parent-Child Communication
+- Parenting
+- Nutrition
+- Food Consumption
 date: ""
 
 # Optional external URL for project (replaces project detail page).
