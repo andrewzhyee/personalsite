@@ -26,7 +26,7 @@ publication = "Journal of Health Communication"
 abstract = "The study of parenting practices on child food consumption has often been characterized as having great utility but lacking in theory. In contrast, the theory of planned behavior (TPB) has often been suggested to be limited in its utility. To address these gaps, interpersonal constructs – the concepts of active parental guidance (e.g., nutrition education) and restrictive parental guidance (e.g., rule-setting) – were integrated as antecedents to the original TPB variables in predicting child fruits and vegetables (FV) consumption. We surveyed 210 child/adolescent participants, aged between 10 and 16 in Singapore. Results from structural equation modeling showed that the integrative TPB model displayed an acceptable fit. Parental active guidance was associated with all three proximal predictors of behavior. Our results suggest that there are promising contributions to the theory of planned behavior in predicting child food consumption behavior by considering interpersonal antecedents."
 
 # Featured image thumbnail (optional)
-image_preview = "familyeating.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -62,9 +62,11 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "familyeating.jpg"
-caption = "credit: unsplash.com/@daen_2chinda"
+image = ""
+caption = ""
 
 +++
-
 Cite this in APA: Yee, A. Z. H., Lwin, M. O., & Lau, J. (2019). Parental guidance and children’s fruits and vegetables consumption: Integrating the theory of planned behaviour with interpersonal antecedents. Journal of Health Communication, 24(2), 183-194. DOI: 10.1080/10810730.2019.1593552
+<br/>
+<br/>
+_Image Credit: pexels.com/@gustavo-fring_
