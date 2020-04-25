@@ -1,7 +1,7 @@
 ---
 title: 
 summary: As the focus of healthcare services expands beyond medical supply, there is increasing interest in the use of health communication campaigns and behavioral interventions to reduce the healthcare burden through effective health promotion and disease prevention. At the start of the January 2020, the 02.230TS Health Communication and Behavior Change students from SUTD were tasked by the Singapore Health Promotion Board to come up with ideas to tackle various health issues. 
-date: " "
+date: ""
 
 featured: true
 reading_time: true  # Show estimated reading time?
