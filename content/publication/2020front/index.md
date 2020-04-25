@@ -69,4 +69,4 @@ caption = ""
 Cite this in APA: Lee, E. W. J. and Yee, A. Z. H. (2020). Toward data sense-making in digital health communication research: Why theory matters in the age of big data. Frontiers in Communication, 5, 11. DOI: 10.3389/fcomm.2020.00011
 <br/>
 <br/>
-_Image Credit: unsplash.com/@fabioha_
+*Image Credit: https://unsplash.com/@fabioha*
