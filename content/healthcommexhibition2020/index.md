@@ -13,6 +13,8 @@ comments: true  # Show comments?
 header:
   caption: ""
   image: ""
+
+<meta property="og:image" content="healthcommexhibition2020/hcex2020banner.jpg">
 ---
 {{< figure src="hcex2020banner.jpg" title="" lightbox="false" >}}
 
