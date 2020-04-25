@@ -70,4 +70,4 @@ Cite this in APA: Ho, S. S., Lwin, M. O., Yee, A. Z. H., Sng, J. R. H., & Chen, 
 featured.jpg
 <br/>
 <br/>
-_Image Credit: unsplash.com/@bernard__
+*Image Credit: https://unsplash.com/@bernard_*
