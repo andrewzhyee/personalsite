@@ -12,7 +12,7 @@ comments: true  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "hcex2020banner.jpg"
+  image: "content/healthcommexhibition2020/hcex2020banner.jpg"
 ---
 {{< figure src="hcex2020banner.jpg" title="" lightbox="false" >}}
 
