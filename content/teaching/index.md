@@ -17,7 +17,7 @@ header:
 I have taught courses in health communication and communication research methods to both undergraduate and graduate students. Listed below are courses I have taught as sole/main instructor: 
 <br/>
 <br/>
-======**02.230TS Health Communication and Behavior Change**====== <br/>
+##02.230TS Health Communication and Behavior Change## <br/>
 _Undergraduate_ {{< figure src="cigpack.jpg" title="" lightbox="false" >}}
 **Course Description** <br/>
 There is an increasing recognition of the role social and technological factors play in shaping the health and well-being of individuals. Communication, from the personal to mass and social media, have been demonstrated to have both beneficial and harmful effects on health and well-being. This course provides an introduction to the theory and practice of health communication and behavior change. It will cover the definition and history of health communication, the role of media and technology, social scientific theories used in health communication and behavior change, as well as how these theories can be applied to the real-world. The course will aim to bridge theoretical knowledge with real-world examples, and is suitable for students with varying interests, especially those who are interested in harnessing communication, design, and technology for better health and well-being in society. <br/> <br/>
