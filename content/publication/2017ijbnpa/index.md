@@ -27,6 +27,7 @@ abstract = "**Background**: The family is an important social context where chil
 
 # Featured image thumbnail (optional)
 image_preview = "featured.jpg"
+caption = "credit: unsplash.com/@daen_2chinda"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -62,22 +63,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
-  
+image = "featured.jpg"
+caption = "credit: unsplash.com/@daen_2chinda"
 +++
-
-# Featured image
-# To use, place an image named `featured.jpg/png` in your page's folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-# Set `preview_only` to `true` to just use the image for thumbnails.
-
-image:
-  placement: 1
-  caption: "credit: unsplash.com/@daen_2chinda"
-  focal_point: "Center"
-  preview_only: false
-  alt_text: An optional description of the image for screen readers.
-
 Cite this in APA: Yee, A. Z. H., Lwin, M. O, and Ho, S. S. (2017). The influence of parental practices on child promotive and preventive food consumption behaviors: A systematic review and meta-analysis. International Journal of Behavioral Nutrition and Physical Activity, 14, 47. DOI: 10.1186/s12966-017-0501-3
