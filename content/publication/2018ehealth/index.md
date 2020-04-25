@@ -26,7 +26,7 @@ publication = "The SAGE Encyclopedia of the Internet"
 abstract = "First introduced by medical industry leaders and marketers, the term e-health has been used to convey the optimistic promise of using Internet-related technology to improve health. There remains a great deal of ambiguity with regard to what e-health means. Part of the uncertainty in finding a precise definition lies in the word health, which generally refers to an outcome rather than a specific object or activity. According to the World Health Organization (1948), “Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity” (p. 1). The term e-health does not lend itself to a common definition, and scholars have liberally defined it in a variety of ways specific to the function that the term serves in the context of its use. This variety of definitions contributes to the ambiguity as well as to the richness and complexity of the concept. This entry does not attempt to provide a specific definition for e-health. Rather, it serves to provide a broad overview of what e-health can mean in a variety of contexts. e-Health can refer to (a) traditional health care enabled through Internet-related technologies, (b) healthrelated information and support available online, and (c) behavioral health interventions designed to be transmitted via Internet-related technologies. However, these categories are not exhaustive as the concept continues to evolve to encompass newer forms of technology."
 
 # Featured image thumbnail (optional)
-image_preview = "ehealth.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -62,9 +62,11 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "ehealth.jpg"
-caption = "credit: unsplash.com/@sushioutlaw"
+image = ""
+caption = ""
 
 +++
-
 Cite this in APA: Lwin, M. O., and Yee, A. Z. H. (2018). Conceptualizing E-Health. In The SAGE Encyclopedia of the Internet, Ed. Barney Warf. Sage Publications: Thousand Oaks, CA. DOI: 10.4135/9781473960367.n91
+<br/>
+<br/>
+_Image Credit: unsplash.com/@sushioutlaw_
