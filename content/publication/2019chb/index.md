@@ -26,7 +26,7 @@ publication = "Computers in Human Behavior"
 abstract = "Existing research has highlighted the concept of parental third-person effect, where parents' perceive greater negative media effects on other children versus their own, and act upon those beliefs. Despite this, much of the research has remained rooted in the traditional understanding of the third-person perception, examining how third-person effect is manifested in perceptions about oneself versus others. This study attempts to further extend the traditional understanding of the third-person effect by examining how parents' perceived effects of cyberbullying is associated with two behavioral outcomes: support for anti-cyberbullying legislation and parental mediation of social media use. We surveyed 1187 of parents of children aged between 8 and 17 in Singapore. Our results supported both the perceptual and behavioral hypotheses. Parents perceived other children as more susceptible to cyberbullying than their own children. Parents' third-person perceptual gap was negatively associated with support for anti-cyberbullying legislation, and positively associated with parental mediation strategies, suggesting that different behavioral outcomes are associated with different processes. The associations between the third-person perceptual gap and both related outcomes were stronger among parents of younger children as compared to adolescents. Implications for research on the third-person effect were discussed."
 
 # Featured image thumbnail (optional)
-image_preview = "bullied.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -62,9 +62,12 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "bullied.jpg"
-caption = "credit: unsplash.com/@bernard_"
+image = ""
+caption = ""
 
 +++
-
 Cite this in APA: Ho, S. S., Lwin, M. O., Yee, A. Z. H., Sng, J. R. H., & Chen, L. (2019). Parents’ responses to cyberbullying effects: How third-person perception influences support for legislation and parental mediation strategies. Computers in Human Behavior, 92, 373-380. DOI: 10.1016/j.chb.2018.11.021
+featured.jpg
+<br/>
+<br/>
+_Image Credit: unsplash.com/@bernard__
