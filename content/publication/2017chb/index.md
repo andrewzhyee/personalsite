@@ -26,7 +26,7 @@ publication = "Computers in Human Behavior"
 abstract = "Exergaming has been discussed as a possible strategy to encourage children to engage in physical activity. This study explores presence as a mechanism through which exergames may be associated with positive mood experiences and game enjoyment among children. Structural equation modeling using survey data from children aged 9–12 in Singapore revealed that presence was positively correlated with mood experience and game enjoyment, while game enjoyment and mood experience were positively correlated with attitude toward exergaming. Attitude toward exergaming was positively correlated with preference for future game play. In addition, mood experience was found to be a partial mediator of the relationship between presence and game enjoyment. Conclusions regarding the impact of exergames on children and practical implications for digital health interventions and exergame design were discussed."
 
 # Featured image thumbnail (optional)
-image_preview = "switchgame.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -62,9 +62,12 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "switchgame.jpg"
-caption = "credit: unsplash.com/@kellysikkema"
+image = ""
+caption = ""
 
 +++
 
 Cite this in APA: Ho, S. S., Lwin, M. O., Sng, J., & Yee, A. Z. H. (2017). Escaping through exergames: Presence, enjoyment, and mood experience in predicting children’s attitudes and preference to play exergames. Computers in Human Behavior, 72, 381-389. DOI: 10.1016/j.chb.2017.03.001
+<br/>
+<br/>
+_Image Credit: unsplash.com/@kellysikkema_
