@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: 
+# - icon: 
   icon_pack: 
   name: 
   url: 
