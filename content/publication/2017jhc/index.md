@@ -26,7 +26,7 @@ publication = "Journal of Health Communication"
 abstract = "This study proposes that parental mediation of television advertising and parental guidance of food consumption differentially influence children’s attitude, intention, and behavior toward the consumption of healthy and unhealthy foods. Structural equation modeling based on a survey of 1,119 children aged 9–12 supported our model, revealing that parental education strategies influence children’s food consumption in a complex manner that is highly context-dependent. Parental guidance of food consumption enhanced children’s healthy food attitude and intention to consume, while reducing the intention to consume unhealthy food. However, parental mediation of television advertising influenced unhealthy food attitude to a greater extent than healthy food attitude. Implications for health promotion and education, as well as parents and policy makers are discussed."
 
 # Featured image thumbnail (optional)
-image_preview = "familyeating.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -62,9 +62,12 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "familyeating.jpg"
-caption = "credit: unsplash.com/@daen_2chinda"
+image = ""
+caption = ""
 
 +++
 
 Cite this in APA: Lwin, M. O., Shin, W. S., Yee, A. Z. H., & Wardoyo, R. J. (2017). A parental health education model of children’s food consumption: Influence on children’s attitudes, intention and consumption of healthy and unhealthy foods. Journal of Health Communication, 22(5), 403-412. DOI: 10.1080/10810730.2017.1302523
+<br/>
+<br/>
+_Image Credit: pexels.com/@olly_
