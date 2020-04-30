@@ -1,6 +1,6 @@
 ---
 title: Media Use and Child and Adolescent Well-Being
-summary: These research projects aims to understand how media use and consumption affect children and adolescents' psychosocial health.
+summary: These research projects aim to understand how media use and consumption affect children and adolescents' health and well-being.
 tags:
 - Children and Adolescents
 - Well-being
@@ -30,7 +30,7 @@ slides: example
 {{< video src="ScreenLife.mp4" controls="yes" >}}
 
 **Adolescent smartphone use and mental well-being** <br/>
-I am utilizing high-frequency screenshot data (or screenomics) to better understand the type and quality of smartphone media consumption among, and in identifying if differences in the type and quality of use can affect adolescent mental well-being. In this project, my team at SUTD are developing a proprietary software called ScreenLife Capture that unobtrusively captures high-frequency screenshots, providing rich in-situ smartphone use data which can be analyzed both quantitatively and qualitatively. The video above provides a sample of screenshots derived from around 1 hour of use. <br/><br/>
+I utilize high-frequency screenshot data (or screenomics) to better understand and identify the different types and quality of smartphone use among adolescents. In addition, I am also investigating if differences in the type and quality of smartphone use can affect adolescents' mental well-being. To do this, our team at SUTD is developing a proprietary software called ScreenLife Capture to unobtrusively capture high-frequency screenshots (every 5 seconds) on smartphones, providing rich in-situ smartphone use data which can be analyzed both quantitatively and qualitatively. The video above provides a sample of screenshots derived from around 1 hour of use, collected using the ScreenLife Capture app. <br/><br/>
 **_I am actively looking for interested collaborators and students who have expertise in Android app development to join our research team working on this project. Please contact me if you are interested._**
 <br/><br/>
 **Healthy media consumption among young children** <br/>
