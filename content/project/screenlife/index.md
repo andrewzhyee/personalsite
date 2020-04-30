@@ -1,6 +1,6 @@
 ---
 title: Media Use and Child and Adolescent Well-Being
-summary: This research project aims to identify the variety and 
+summary: These research projects aims to understand how media use and consumption affect children and adolescents' psychosocial health.
 tags:
 - Children and Adolescents
 - Well-being
