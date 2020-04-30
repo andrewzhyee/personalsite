@@ -1,6 +1,6 @@
 ---
 title: Parent-Child Communication and Food Preferences
-summary: This research project aims to identify the variety and 
+summary: In this project, I identify the features and theoretical processes behind effective parenting strategies in encouraging healthier food consumption among children.
 tags:
 - Parent-Child Communication
 - Parenting
