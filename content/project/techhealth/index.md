@@ -1,6 +1,6 @@
 ---
 title: Technology and Health Outcomes
-summary: This research stream aims to understand how technology can be harnessed to improve individual health outcomes.
+summary: This stream of research aims to understand how technology can be harnessed to improve individual health outcomes.
 tags:
 - Technological Acceptance
 - Health
