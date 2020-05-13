@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Faculty Early Career Award Fellow at the Humanities, Arts, and Social Sciences department in the Singapore University of Technology Design. My primary research interest involve parent-child communication, health communication, and youth media use and well-being.
+bio: I am Faculty Early Career Award Fellow at the Humanities, Arts, and Social Sciences department in the Singapore University of Technology Design. My primary research interest involve parent-child communication, health communication, and youth media use and well-being.
 
 interests:
 - Media and youth well-being
@@ -67,4 +67,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently SUTD Faculty Fellow at the Singapore University of Technology and Design. My research focuses on understanding how social and technological environments shape the health and well-being of individuals. I am currently working on a number of research projects related to media use among children and youths and how it affects their well-being, parent-child communication and food preferences in children, as well as technological acceptance for health among the elderly. One of the more exciting projects I am working on right now is the collection and analysis of young people's screenomes in Singapore, and identifying how different strains of media use can affect youth well-being.
+I am currently Faculty Early Career Award Fellow at the Singapore University of Technology and Design. My research focuses on understanding how social and technological environments shape the health and well-being of individuals. I am currently working on a number of research projects related to media use among children and youths and how it affects their well-being, parent-child communication and food preferences in children, as well as technological acceptance for health among the elderly. One of the more exciting projects I am working on right now is the collection and analysis of young people's screenomes in Singapore, and identifying how different strains of media use affect youth well-being.
