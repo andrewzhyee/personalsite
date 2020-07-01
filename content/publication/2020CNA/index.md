@@ -26,7 +26,7 @@ publication = "CNAOnline"
 abstract = "In this op-ed, my co-author Jeremy Sng and I discuss how video games like Animal Crossing: New Horizons can satisfy important psychological needs during the Covid-19 pandemic."
 
 # Featured image thumbnail (optional)
-image_preview = "ac.jpg"
+image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
 featured = true
