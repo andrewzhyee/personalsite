@@ -67,7 +67,6 @@ caption = ""
 
 +++
 Cite this in APA: Ho, S. S., Lwin, M. O., Yee, A. Z. H., Sng, J. R. H., & Chen, L. (2019). Parents’ responses to cyberbullying effects: How third-person perception influences support for legislation and parental mediation strategies. Computers in Human Behavior, 92, 373-380. https://doi.org/10.1016/j.chb.2018.11.021
-featured.jpg
 <br/>
 <br/>
 *Image Credit: https://unsplash.com/@bernard_*
