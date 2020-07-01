@@ -66,7 +66,7 @@ image = ""
 caption = "credit: unsplash.com/@neonbrand"
 
 +++
-Cite this in APA: Lwin, M. O., Lau, J., Yee, A. Z. H., & Au, C. (2017). Nutrition labelling in health and risk messaging in Asia. Oxford Research Encyclopedia of Communication. DOI: 10.1093/acrefore/9780190228613.013.307
+Cite this in APA: Lwin, M. O., Lau, J., Yee, A. Z. H., & Au, C. (2017). Nutrition labelling in health and risk messaging in Asia. Oxford Research Encyclopedia of Communication. https://doi.org/10.1093/acrefore/9780190228613.013.307
 <br/>
 <br/>
 *Image Credit: https://unsplash.com/@neonbrand*
