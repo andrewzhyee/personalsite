@@ -67,7 +67,7 @@ caption = ""
 
 +++
 
-Cite this in APA: Ho, S. S., Lwin, M. O., Sng, J., & Yee, A. Z. H. (2017). Escaping through exergames: Presence, enjoyment, and mood experience in predicting children’s attitudes and preference to play exergames. Computers in Human Behavior, 72, 381-389. DOI: 10.1016/j.chb.2017.03.001
+Cite this in APA: Ho, S. S., Lwin, M. O., Sng, J., & Yee, A. Z. H. (2017). Escaping through exergames: Presence, enjoyment, and mood experience in predicting children’s attitudes and preference to play exergames. Computers in Human Behavior, 72, 381-389. https://doi.org/10.1016/j.chb.2017.03.001
 <br/>
 <br/>
 *Image Credit: https://unsplash.com/@kellysikkema*
