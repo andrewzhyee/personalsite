@@ -66,7 +66,7 @@ image = ""
 caption = ""
 
 +++
-Cite this in APA: Lwin, M. O., and Yee, A. Z. H. (2018). Conceptualizing E-Health. In The SAGE Encyclopedia of the Internet, Ed. Barney Warf. Sage Publications: Thousand Oaks, CA. DOI: 10.4135/9781473960367.n91
+Cite this in APA: Lwin, M. O., and Yee, A. Z. H. (2018). Conceptualizing E-Health. In The SAGE Encyclopedia of the Internet, Ed. Barney Warf. Sage Publications: Thousand Oaks, CA. https://doi.org/10.4135/9781473960367.n91
 <br/>
 <br/>
 *Image Credit: https://unsplash.com/@sushioutlaw*
