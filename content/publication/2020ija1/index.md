@@ -66,7 +66,7 @@ image = ""
 caption = ""
 
 +++
-Cite this in APA: Lwin, M. O., Yee, A. Z. H., Lau, J., Ng, J. S., Lam, J. Y., Cayabyab, Y., & Malik, S. (2020). A macro-level assessment of introducing children food advertising restrictions on children’s unhealthy food cognition and behavior. International Journal of Advertising. DOI: 10.1080/02650487.2020.1717856
+Cite this in APA: Lwin, M. O., Yee, A. Z. H., Lau, J., Ng, J. S., Lam, J. Y., Cayabyab, Y., & Malik, S. (2020). A macro-level assessment of introducing children food advertising restrictions on children’s unhealthy food cognition and behavior. International Journal of Advertising. https://doi.org/10.1080/02650487.2020.1717856
 <br/>
 <br/>
 *Image Credit: https://unsplash.com/@jorgezapatag*
