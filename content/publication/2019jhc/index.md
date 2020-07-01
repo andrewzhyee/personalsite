@@ -66,7 +66,7 @@ image = ""
 caption = ""
 
 +++
-Cite this in APA: Yee, A. Z. H., Lwin, M. O., & Lau, J. (2019). Parental guidance and children’s fruits and vegetables consumption: Integrating the theory of planned behaviour with interpersonal antecedents. Journal of Health Communication, 24(2), 183-194. DOI: 10.1080/10810730.2019.1593552
+Cite this in APA: Yee, A. Z. H., Lwin, M. O., & Lau, J. (2019). Parental guidance and children’s fruits and vegetables consumption: Integrating the theory of planned behaviour with interpersonal antecedents. Journal of Health Communication, 24(2), 183-194. https://doi.org/10.1080/10810730.2019.1593552
 <br/>
 <br/>
 *Image Credit: https://pexels.com/@gustavo-fring*
