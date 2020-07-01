@@ -66,7 +66,7 @@ image = ""
 caption = "credit: unsplash.com/@airamdatoon"
 
 +++
-Cite this in APA: Shin, W. S., Lwin, M. O., Yee, A. Z. H., & Kee, K. M. (2019). The role of socialization agents in adolescents’ responses to app-based mobile marketing. International Journal of Advertising, 39(3), 365-386. DOI: 10.1080/02650487.2019.1648138
+Cite this in APA: Shin, W. S., Lwin, M. O., Yee, A. Z. H., & Kee, K. M. (2019). The role of socialization agents in adolescents’ responses to app-based mobile marketing. International Journal of Advertising, 39(3), 365-386. https://doi.org/10.1080/02650487.2019.1648138
 <br/>
 <br/>
 *Image Credit: https://unsplash.com/@airamdatoon*
