@@ -66,7 +66,7 @@ image = ""
 caption = ""
 
 +++
-Cite this in APA: Ho, S. S. & Yee, A. Z. H. (2017). Presumed media influence in health and risk messaging. Oxford Research Encyclopedia of Communication. DOI: 10.1093/acrefore/9780190228613.013.294
+Cite this in APA: Ho, S. S. & Yee, A. Z. H. (2017). Presumed media influence in health and risk messaging. Oxford Research Encyclopedia of Communication. https://doi.org/10.1093/acrefore/9780190228613.013.294
 <br/>
 <br/>
 *Image Credit: https://unsplash.com/@mrsamwheeler*
