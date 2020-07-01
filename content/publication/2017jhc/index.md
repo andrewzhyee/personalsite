@@ -67,7 +67,7 @@ caption = ""
 
 +++
 
-Cite this in APA: Lwin, M. O., Shin, W. S., Yee, A. Z. H., & Wardoyo, R. J. (2017). A parental health education model of children’s food consumption: Influence on children’s attitudes, intention and consumption of healthy and unhealthy foods. Journal of Health Communication, 22(5), 403-412. DOI: 10.1080/10810730.2017.1302523
+Cite this in APA: Lwin, M. O., Shin, W. S., Yee, A. Z. H., & Wardoyo, R. J. (2017). A parental health education model of children’s food consumption: Influence on children’s attitudes, intention and consumption of healthy and unhealthy foods. Journal of Health Communication, 22(5), 403-412. https://doi.org/10.1080/10810730.2017.1302523
 <br/>
 <br/>
 *Image Credit: https://pexels.com/@olly*
