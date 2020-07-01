@@ -1,6 +1,6 @@
 +++
 title = "Promoting healthier eating via parental communication: Development and validation of the active and restrictive parental guidance questionnaire (PARQ)"
-date = "2017-04-11"
+date = "2020-06-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
