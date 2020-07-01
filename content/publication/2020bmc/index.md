@@ -29,7 +29,7 @@ abstract = "**Background**: While existing studies have investigated the role of
 image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
