@@ -4,7 +4,7 @@ date = "2020-07-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Gotz, M.", "...", "**Andrew Z H Yee**"]
+authors = ["Maya Gotz", "...", "**Andrew Z H Yee**"]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,7 @@ publication = "TeleVizion"
 
 # Abstract and optional shortened version.
 
-abstract = "An international study in 42 countries inquired children’s perception of the coronacrisis, their knowledge on COVID-19 and the role the media play in this. "
+abstract = "An international study in 42 countries inquired children’s perception of the coronacrisis, their knowledge on COVID-19 and the role the media play in this."
 
 # Featured image thumbnail (optional)
 image_preview = "featured.jpg"
