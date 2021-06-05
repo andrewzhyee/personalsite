@@ -1,5 +1,5 @@
 +++
-title = "Developing a perceived social media literacy scale: Evidence from Singapore. "
+title = "Developing a perceived social media literacy scale: Evidence from Singapore"
 date = "2021-05-06"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
