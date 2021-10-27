@@ -29,7 +29,7 @@ abstract = "An international study across 42 countries was conducted to better u
 image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
