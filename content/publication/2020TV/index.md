@@ -23,13 +23,13 @@ publication = "TeleVizion"
 
 # Abstract and optional shortened version.
 
-abstract = "An international study in 42 countries inquired children’s perception of the coronacrisis, their knowledge on COVID-19 and the role the media play in this."
+abstract = "An international study across 42 countries was conducted to better understand children’s perception of the Covid-19 pandemic, as well as the role in which the media plays in shaping these perceptions."
 
 # Featured image thumbnail (optional)
 image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
