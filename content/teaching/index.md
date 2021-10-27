@@ -1,6 +1,6 @@
 ---
 title: Teaching
-summary: I teach courses in digital media, health communication, and research methods to both undergraduate and graduate students. Listed below are the courses I have taught.
+summary: I teach undergraduate and graduate courses in digital media, health communication, and research methods.
 date: ""
 
 featured: true
@@ -14,7 +14,7 @@ header:
   caption: ""
   image: ""
 ---
-I have taught courses in health communication and communication research methods to both undergraduate and graduate students. Listed below are courses I have taught as sole/main instructor: 
+I teach undergraduate and graduate courses in digital media, health communication, and research methods. Listed below are the courses I teach at the Singapore University of Technology and Design:
 <br/>
 <br/>
 **02.XXTS Designing Digital Technology for Children and Teens** <br/>
