@@ -17,7 +17,7 @@ header:
 I teach undergraduate and graduate courses in digital media, health communication, and research methods. Listed below are courses I teach at the Singapore University of Technology and Design:
 <br/>
 <br/>
-**02.XXTS Designing Digital Technology for Children and Teens** <br/>
+**02.160TS Designing Digital Technology for Children and Teens** <br/>
 _Undergraduate_ {{< figure src="kidgame.jpg" title="" lightbox="false" >}}
 <ins>Course Description</ins> <br/>
 From Netflix and YouTube Kids to TikTok and Instagram, children and adolescents are frequent users of media technologies and consumers of media content. Globally, organizations such as governmental agencies, schools, media companies, and technological firms will increasingly face challenges in catering digital media products to younger users. Understanding the impact of and complexities surrounding media for children is essential for aspiring product and software designers who want to work in the intersection between young people and media. This course provides a developmental perspective surrounding youths as media consumers. It introduces students to the major theories of child development and examines how media products can impact the lives of children across different age groups, from early childhood to adolescence. It is suitable for students with varying interests, especially those who are interested in working with technology or media content for youths. <br/> <br/>
