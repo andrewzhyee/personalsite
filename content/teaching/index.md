@@ -14,7 +14,7 @@ header:
   caption: ""
   image: ""
 ---
-I teach undergraduate and graduate courses in digital media, health communication, and research methods. Listed below are courses I teach at the Singapore University of Technology and Design:
+I teach undergraduate and graduate courses in digital media, health communication, and research methods. Listed below are courses I am currently teaching at the Singapore University of Technology and Design:
 <br/>
 <br/>
 **02.160TS Designing Digital Technology for Children and Teens** <br/>
