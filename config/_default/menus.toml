@@ -24,9 +24,14 @@
   weight = 50
   
 [[main]]
+# name = "ScreenLife Capture Guide"
+# url = "screenlifec/"
+# weight = 60
+  
+[[main]]
 # name = "Health Promotion + Behavior Change Exhibition 2020"
 # url = "healthcommexhibition2020/"
-# weight = 60
+# weight = 70
 
 [[main]]
   name = "Contact"
