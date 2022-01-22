@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Faculty Early Career Award Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
