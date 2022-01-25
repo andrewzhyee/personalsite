@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Assistant Professor at the Humanities, Arts, and Social Sciences department in the Singapore University of Technology Design. My primary research interest involve parent-child communication, health communication, and youth media use and well-being.
+bio: I am Assistant Professor at the Humanities, Arts, and Social Sciences department in the Singapore University of Technology Design. My primary research interest involve children and youth's digital media use, parent-child communication, and health communication.
 
 interests:
 - Media and youth well-being
@@ -67,4 +67,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently Assistant Professor in the Humanities, Arts and Social Sciences Department at the Singapore University of Technology and Design. My research focuses on understanding how social and technological environments shape the health and well-being of individuals. Currently, I am working on a number of research projects related to media use among children and youths and how it affects their well-being, parent-child communication and dietary preferences among children, as well as technological affordances for health. One major project I am working on right now is the collection and analysis of young people’s screenomes in Singapore, and identifying how different strains of media use affect youth well-being. A second major project I am working on is in understanding what constitutes high- versus low-quality digital media use for preschoolers. 
+I am currently Assistant Professor in the Humanities, Arts and Social Sciences Department at the Singapore University of Technology and Design. My interest is in understanding how social and technological environments shape the health and well-being of individuals. My latest research involves the collection of screenomes to better understand and dissect youth smartphone use. Another current project involves understanding what aspects of media use contributes to preschoolers' school readiness. Overall, my work aims to explore how message design, technology, and digital media can be harnessed to positively affect children’s development.
