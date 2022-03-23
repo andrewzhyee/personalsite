@@ -51,6 +51,12 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Andrew_Yee3
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/4951146/andrew-z-h-yee/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7854-8792
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below. 
