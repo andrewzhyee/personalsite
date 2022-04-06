@@ -1,6 +1,6 @@
 ---
-title: Media Use and Child and Adolescent Well-Being
-summary: These research projects aim to understand how media use and consumption affect children and adolescents' health and well-being.
+title: Youth and Digital Media Research Lab
+summary: The research projects under the Youth and Digital Media Research Lab aim to understand how media use and consumption affect children and adolescents' development and well-being.
 tags:
 - Children and Adolescents
 - Well-being
@@ -33,4 +33,4 @@ slides: example
 I utilize high-frequency screenshot data (or screenomics) to better understand and identify the different types and quality of smartphone use among youths. In addition, I am also investigating if differences in the type and quality of smartphone use can affect various facets of young people's mental well-being. To do this, our team at SUTD developed an open-source and freely available software called ScreenLife Capture to unobtrusively capture high-frequency screenshots (every 5 seconds) on smartphones, providing rich behavioral smartphone use data which can be analyzed both quantitatively and qualitatively. The video above provides a participants' screenshots from around 1 hour of use, collected using the ScreenLife Capture app. The manuscript and code for our open-source software is currently under review, and will be shared when it is published.
 
 **Quality of media consumption among young children** <br/>
-I am also investigating what constitutes healthy forms of media consumption among younger children. Specifically, I look at the context (social interaction with parents during and around media consumption), technological affordances (interactive versus non-interactive), and content (developmentally appropriate) surrounding media consumption that can confer positive psychosocial and cognitive benefits for children. This project is generously funded by the National Institute of Education Office of Education Research Tier 2 grant (SGD244,004). 
+I am also investigating what constitutes healthy forms of media consumption among younger children. Specifically, I look at the context (social interaction with parents during and around media consumption), technological affordances (interactive versus non-interactive), and content (developmentally appropriate) surrounding media consumption that can confer positive psychosocial and cognitive benefits for children. We use a blend of qualitative and quantitative techniques to understand this phenomena. This project is funded by the National Institute of Education Office of Education Research Tier 2 grant (SGD244,004). 
