@@ -29,7 +29,7 @@ abstract = "In this op-ed, my co-author Jeremy Sng and I discuss how video games
 image_preview = "featured.jpg"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
