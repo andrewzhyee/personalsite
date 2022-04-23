@@ -21,7 +21,7 @@ organizations:
 bio: I am Assistant Professor at the Humanities, Arts, and Social Sciences department in the Singapore University of Technology Design. My primary research interest involve children and youth's digital media use, parent-child communication, and health communication.
 
 interests:
-- Media and youth well-being
+- Digital media and human development
 - Parent-child communication
 - Health communication
 
