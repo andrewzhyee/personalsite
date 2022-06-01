@@ -1,5 +1,5 @@
 ---
-title: Technology and Health Outcomes
+title: Project 2: Technology and Health Outcomes
 summary: This stream of research aims to understand how technology can be harnessed to improve individual health outcomes.
 tags:
 - Technological Acceptance
