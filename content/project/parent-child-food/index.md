@@ -1,5 +1,5 @@
 ---
-title: Parent-Child Communication and Food Preferences
+title: Project 3: Parent-Child Communication and Food Preferences
 summary: In this project, I identify the features and theoretical processes behind effective parenting strategies in encouraging healthier food consumption among children.
 tags:
 - Parent-Child Communication
