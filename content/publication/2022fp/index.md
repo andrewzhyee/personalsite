@@ -66,4 +66,4 @@ image = ""
 caption = ""
 
 +++
-Cite this in APA: Yee AZH and Sng JRH (2022) Animal Crossing and COVID-19: A Qualitative Study Examining How Video Games Satisfy Basic Psychological Needs During the Pandemic. Front. Psychol. 13:800683. doi: 10.3389/fpsyg.2022.800683
+Cite this in APA: Yee, A. Z. H. and Sng, J. R. H. (2022). Animal Crossing and COVID-19: A Qualitative Study Examining How Video Games Satisfy Basic Psychological Needs During the Pandemic. Frontiers in Psychology. 13:800683. doi: 10.3389/fpsyg.2022.800683
