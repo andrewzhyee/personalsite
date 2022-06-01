@@ -23,8 +23,7 @@ publication = "Internet Research"
 
 # Abstract and optional shortened version.
 
-abstract = "Purpose
-While videoconferencing has allowed for meetings to continue in a virtual space without the need for face-to-face interaction, there have been increasing reports of individuals affected by a phenomenon colloquially known as videoconference fatigue (VF). This paper presents a systematic review of existing literature to understand the empirical manifestations of the phenomenon, the causes behind it and potential theoretical explanations behind its effects."
+abstract = "While videoconferencing has allowed for meetings to continue in a virtual space without the need for face-to-face interaction, there have been increasing reports of individuals affected by a phenomenon colloquially known as videoconference fatigue (VF). This paper presents a systematic review of existing literature to understand the empirical manifestations of the phenomenon, the causes behind it and potential theoretical explanations behind its effects."
 
 # Featured image thumbnail (optional)
 image_preview = "featured.jpg"
