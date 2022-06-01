@@ -1,5 +1,5 @@
 +++
-title = "Animal Crossing and COVID-19: A Qualitative Study Examining How Video Games Satisfy Basic Psychological Needs During the Pandemic"
+title = "Animal Crossing and COVID-19: A qualitative study examining how video games satisfy basic psychological needs during the pandemic"
 date = "2022-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
