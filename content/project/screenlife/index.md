@@ -1,5 +1,5 @@
 ---
-title: Project 1: Youth and Digital Media Research Lab
+title: "Project 1: Youth and Digital Media Research Lab"
 summary: The research projects under the Youth and Digital Media Research Lab aim to understand how media use and consumption affect children and adolescents' development and well-being.
 tags:
 - Children and Adolescents
