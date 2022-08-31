@@ -19,7 +19,7 @@ Developed by students and researchers at the Singapore University of Technology 
 
 An example of screenome data can be represented in the following analysis:
 
-{{< figure src="ScreenomeYeeAnalysis.jpg" title="" lightbox="true" >}}
+{{< figure src="ScreenomeYeeAnalysis.jpeg" title="" lightbox="true" >}}
 
 ScreenLife Capture is the first freely available and open-source screenome collection tool for researchers. The application is free to download, edit, and use for academic research purposes. The full details of the application can be found in the following paper. Please use the following citation if you are using ScreenLife Capture for your research project:
 
@@ -29,7 +29,7 @@ The code to the different components of ScreenLife Capture can be found here: ht
 
 Meanwhile, researchers can refer to this easy-to-understand guide in order to build their own data collection module:
 
-[ScreenLife Capture Guide for Researchers](/ScreenLife Capture Guide for Researchers.pdf)
+{{% staticref "content/screenlifec/ScreenLife Capture Guide for Researchers.pdf" "newtab" %}}ScreenLife Capture Guide for Researchers{{% /staticref %}}
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
