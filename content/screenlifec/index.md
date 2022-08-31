@@ -29,7 +29,7 @@ The code to the different components of ScreenLife Capture can be found here: ht
 
 Meanwhile, researchers can refer to this easy-to-understand guide in order to build their own data collection module:
 
-{{% staticref "content/screenlifec/ScreenLife Capture Guide for Researchers.pdf" "newtab" %}}ScreenLife Capture Guide for Researchers{{% /staticref %}}
+{{% staticref "/screenlifec/ScreenLife Capture Guide for Researchers.pdf" "newtab" %}}ScreenLife Capture Guide for Researchers{{% /staticref %}}
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
