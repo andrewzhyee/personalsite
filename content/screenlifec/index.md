@@ -29,9 +29,8 @@ The code to the different components of ScreenLife Capture can be found here: ht
 
 Meanwhile, researchers can refer to this easy-to-understand guide in order to build their own data collection module:
 
-{{% staticref "/screenlifec/ScreenLife Capture Guide for Researchers.pdf" "newtab" %}}ScreenLife Capture Guide for Researchers{{% /staticref %}}
+{{% staticref "/screenlifec/SLCGuide.pdf" "newtab" %}}ScreenLife Capture Guide for Researchers{{% /staticref %}}
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 All the components of the ScreenLife Capture Framework is licensed under the
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
