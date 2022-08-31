@@ -15,4 +15,6 @@ header:
   image: " "
 
 ---
-The full guide can be found here: [ScreenLife Capture Research Guide](./ScreenLife Capture Guide for Researchers.pdf)
+The full guide can be found below:
+
+<object data="{{ site.url }}{{ site.baseurl }}/content/screenlifec/ScreenLife Capture Guide for Researchers.pdf" width="1000" height="1000" type="application/pdf"></object>
