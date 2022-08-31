@@ -1,5 +1,5 @@
 ---
-title: "ScreenLife Capture Framework Download and Guide"
+title: "ScreenLife Capture"
 summary: This page serves as a...
 date: ""
 
@@ -15,4 +15,4 @@ header:
   image: " "
 
 ---
-Start writing here...
+The full guide can be found here: [ScreenLife Capture Research Guide](./ScreenLife Capture Guide for Researchers.pdf)
