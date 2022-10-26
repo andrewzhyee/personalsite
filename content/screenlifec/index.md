@@ -23,7 +23,7 @@ An example of screenome data can be represented in the following analysis:
 
 ScreenLife Capture is the first freely available and open-source screenome collection tool for researchers. The application is free to download, edit, and use for academic research purposes. The full details of the application can be found in the following paper. Please use the following citation if you are using ScreenLife Capture for your research project:
 
-- Yee, A. Z. H., Yu, R., Lim, S. S., Lim, K. H., Dinh, T. T. A., Loh, L., Hadianto, A., and Quizon, M. (2022, August 31). ScreenLife Capture: An open-source and user-friendly framework for collecting screenome data from Android smartphones. https://doi.org/10.31234/osf.io/sphq4
+- Yee, A. Z. H., Yu, R., Lim, S. S., Lim, K. H., Dinh, T. T. A., Loh, L., Hadianto, A., and Quizon, M. (2022). ScreenLife Capture: An open-source and user-friendly framework for collecting screenome data from Android smartphones. Behavior Research Methods. https://doi.org/10.3758/s13428-022-02006-z
 
 The code to the different components of ScreenLife Capture can be found here: https://github.com/ScreenLife-Capture-Team
 
