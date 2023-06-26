@@ -65,7 +65,7 @@ highlight = false
 image = ""
 caption = ""
 +++
-Cite this in APA: Yee, A. Z. H., Lwin, M. O, and Ho, S. S. (2020). Promoting healthier eating via parental communication: Development and validation of the active and restrictive parental guidance questionnaire (PARQ). https://doi.org/10.1080/10410236.2020.1773696
+Cite this in APA: Yee, A. Z. H., Lwin, M. O, and Ho, S. S. (2020). Promoting healthier eating via parental communication: Development and validation of the active and restrictive parental guidance questionnaire (PARQ). Health Communication, 36(12), 1514-1526. https://doi.org/10.1080/10410236.2020.1773696
 <br/>
 <br/>
 *Image Credit: https://unsplash.com/@libby_penner*
