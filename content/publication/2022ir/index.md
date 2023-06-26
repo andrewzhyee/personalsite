@@ -66,6 +66,6 @@ image = ""
 caption = ""
 
 +++
-Cite this in APA: Li, B. J. and Yee, A. Z. H. (2022). Understanding videoconference fatigue: a systematic review of dimensions, antecedents and theories. Internet Research, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/INTR-07-2021-0499
+Cite this in APA: Li, B. J. and Yee, A. Z. H. (2022). Understanding videoconference fatigue: a systematic review of dimensions, antecedents and theories. Internet Research, 33(2), 796-819. https://doi.org/10.1108/INTR-07-2021-0499
 
 _Image Credit: https://www.pexels.com/@ketut-subiyanto/
