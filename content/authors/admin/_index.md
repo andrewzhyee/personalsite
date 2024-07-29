@@ -14,11 +14,11 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Singapore University of Technology and Design
+- name: Nanyang Technological University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Assistant Professor at the Humanities, Arts, and Social Sciences department in the Singapore University of Technology Design. I am interested in understanding how humans interact with and are affected by digital technology use.
+bio: I am Assistant Professor at the Wee Kim Wee School of Communication and Information, Nanyang Technological University. I am interested in understanding how humans interact with and are affected by digital technology use.
 
 interests:
 - Digital media and human development
@@ -73,4 +73,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently Assistant Professor in the Humanities, Arts and Social Sciences Department at the Singapore University of Technology and Design. I am generally interested in understanding how and why people use digital technology, and the impact it can have on their lives. My latest work involves the collection of screenomes to better understand and dissect youth smartphone use. Another current project involves understanding what aspects of media use contributes to preschoolers' school readiness. Overall, my work aims to explore how message design, technology, and digital media can be harnessed to positively affect children’s development.
+I am currently Assistant Professor at the Wee Kim Wee School of Communication and Information, Nanyang Technological University. I am generally interested in understanding how and why people use digital technology, and the impact it can have on their lives. My latest work involves the collection of screenomes to better understand and dissect youth smartphone use. Another current project involves understanding what aspects of media use contributes to preschoolers' school readiness. Overall, my work aims to explore how message design, technology, and digital media can be harnessed to positively affect children’s development.
