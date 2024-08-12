@@ -17,8 +17,8 @@ header:
 I teach undergraduate and graduate courses in digital media, health communication, and research methods. Listed below are details of the course(s) I am teaching now, as well as previous courses I have taught:
 <br/>
 <br/>
-**CURRENT COURSE (AY23/24)** <br/>
-**CS4150 Health Communication (AY24/25)** <br/>
+**CURRENT COURSE(S)** <br/>
+**CS4150 Health Communication** <br/>
 _Undergraduate_ {{< figure src="cigpack.jpg" title="" lightbox="false" >}}
 <ins>Course Description</ins> <br/>
 There is increasing recognition of the role the social environment plays in shaping the health and well-being of individuals. Communication, from the personal to mass and social media, has been demonstrated to have both beneficial and harmful effects on health and well-being. This course is designed to introduce you to the theory and practice of health communication. It will cover the definition and history of health communication, the role of media and technology, social scientific theories used in health communication, as well as how these theories can be applied to the real-world, through appropriate use of communication strategies and channels. The course will aim to bridge theoretical knowledge with real-world examples, and is suitable for students with varying interests, especially those who are interested in harnessing communication techniques for effecting better health and well-being in society. Some questions we will tackle include: What social, environmental, and technological factors are effective in influencing people’s behaviour? How should they be designed and shaped? Can stories help people engage in healthier behaviours? How can communication experts help to foster better health and well-being in society?
