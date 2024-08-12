@@ -17,7 +17,9 @@ header:
 I teach undergraduate and graduate courses in digital media, health communication, and research methods. Listed below are details of the course(s) I am teaching now, as well as previous courses I have taught:
 <br/>
 <br/>
-**CURRENT COURSE(S)** <br/>
+**CURRENT COURSE(S)**
+<br/>
+<br/>
 **CS4150 Health Communication** <br/>
 _Undergraduate_ {{< figure src="cigpack.jpg" title="" lightbox="false" >}}
 <ins>Course Description</ins> <br/>
