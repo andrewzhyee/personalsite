@@ -19,7 +19,6 @@ I teach undergraduate and graduate courses in digital media, health communicatio
 <br/>
 **CURRENT COURSE(S)**
 <br/>
-<br/>
 **CS4150 Health Communication** <br/>
 _Undergraduate_ {{< figure src="cigpack.jpg" title="" lightbox="false" >}}
 <ins>Course Description</ins> <br/>
@@ -27,7 +26,6 @@ There is increasing recognition of the role the social environment plays in shap
 <br/>
 <br/>
 **PREVIOUS COURSES**
-<br/>
 <br/>
 **02.160TS Designing Digital Technology for Children and Teens (SUTD)** <br/>
 _Undergraduate_ {{< figure src="kidgame.jpg" title="" lightbox="false" >}}
